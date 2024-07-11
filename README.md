@@ -6,3 +6,10 @@ A simple login page made with HTML &amp; CSS
 
 Some random text i just added.
     I wanted to see if this is live
+
+
+### Git branching
+
+    So the previous uploads worked perfectly, though i had som kitches but it is fixed
+
+I will now test branching: i made a new branch with a name "new-page"
