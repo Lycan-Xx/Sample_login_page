@@ -13,3 +13,6 @@ Some random text i just added.
     So the previous uploads worked perfectly, though i had som kitches but it is fixed
 
 I will now test branching: i made a new branch with a name "new-page"
+
+
+And now i wil rename it to tests
